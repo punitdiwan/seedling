@@ -91,7 +91,7 @@ const Home = () => {
           </div>
           <div className="para-content">
             <p>
-            Dear Parent & Students, It gives me great pleasure to welcome you to Seedling School. The school is committed to inculcating in all our students; strong ethical valued of integrity, respect.  
+            Dear Parent & Students, It gives me great pleasure to welcome you to Seedling School. The school is committed to inculcating in all our students; strong ethical valued of integrity respect.  
             <Link to="/director"> read more</Link>
             </p>
           </div>
