@@ -1,0 +1,24 @@
+.our-school{
+    width: 80vw;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 120px;
+   }
+   .our-col h1{
+      text-align: center;
+      margin-bottom: 30px;
+      font-weight: 800;
+   }
+   .our-col p{
+     font-size: 20px;
+     line-height: 30px;
+     font-weight: 500;
+   }
+   
+   @media (max-width:700px) {
+     .our-col p{
+       font-size: 16px;
+       line-height: 26px;
+       font-weight: 500;
+     }
+   }
