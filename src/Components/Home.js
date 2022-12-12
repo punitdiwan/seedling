@@ -120,7 +120,7 @@ const Home = () => {
 
           <div className="image_boxAbc">
             <div className="animatinct" style={{ padding: "5px" }}>
-              <p>1. Class Prep Admission Guideline 2022-23</p>
+              <p>1. Class Prep Admission Guideline 2023-24</p>
               <p>2. School Transport Arrangement</p>
               {/* <p>3. School Transport Arrangement</p>
               <p>4. School Transport Arrangement</p>

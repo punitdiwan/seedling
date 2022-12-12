@@ -11,7 +11,7 @@ const Updates = () => {
             </div>
         </div>
         <div className="upinner">
-            <a href=""><p>1. Admission closed for 2022-2023</p></a>
+            <a href=""><p>1. Admission closed for 2023-2024</p></a>
             <a href=""><p>2. School Transport Arrangement</p></a>
         </div>
   </div>
